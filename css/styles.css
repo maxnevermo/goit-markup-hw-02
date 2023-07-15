@@ -21,6 +21,7 @@ ul {
 /* HEADER */
 
 .logo {
+    color: inherit;
     font-family: Raleway, sans-serif;
     text-decoration: none;
     font-weight: 700;
